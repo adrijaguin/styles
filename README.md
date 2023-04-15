@@ -1,3 +1,2 @@
-# styles
-This is the stylesheet for the website undying.radiance
+# contains website and styles for the website undying.radiance
 
