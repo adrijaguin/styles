@@ -1,2 +1,5 @@
 # styles
-stylesheet for the website undying.radiance
+# stylesheet for the website undying.radiance
+body {
+   background-color: lightblue;
+}
