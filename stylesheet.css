@@ -4,6 +4,11 @@ body {
 }
 h1 {
    font-family: playfair display;
+   font-size: 50px;
+   font-weight: 700;
+}
+#heal-with {
+   font-color: #123033;
 }
 p {
    font-family: montserrat;
