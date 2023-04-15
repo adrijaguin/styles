@@ -2,12 +2,19 @@ body {
    background-color: #fff5db;
    padding: 1rem;
 }
-.container {
-   padding: 1rem;
-}
 h1 {
    font-family: playfair display;
 }
 p {
    font-family: montserrat;
+}
+@media only screen and (max-width: 1600px) {
+   .holding-hands {
+      height: 550px;
+   }
+}
+@media only screen and (min-width: 400px) {
+   .holding-hands {
+      height: 350px;
+   }
 }
