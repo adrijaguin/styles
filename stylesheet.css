@@ -1,3 +1,12 @@
 body {
-   background-color: lightblue;
+   background-color: #fff5db;
+}
+.container {
+   padding: 1rem;
+}
+h1 {
+   font-family: playfair display;
+}
+p {
+   font-family: montserrat;
 }
