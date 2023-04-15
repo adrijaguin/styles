@@ -1,6 +1,7 @@
 body {
    background-color: #fff5db;
    padding: 1rem;
+   overflow: hidden;
 }
 h1 {
    font-family: playfair display;
